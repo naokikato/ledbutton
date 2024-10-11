@@ -1,7 +1,3 @@
-basic.forever(function () {
-
-})
-
 /**
  * Custom blocks
  */
